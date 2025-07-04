@@ -10,7 +10,8 @@ Click to view live project 👉https://azmath741.github.io/spotify-fhtml-css-/
 
 ![image](https://github.com/user-attachments/assets/55bba3ac-ac07-449f-8e7e-59c72281b474)
 
-![image](https://github.com/user-attachments/assets/bf51f35b-5078-4040-a10a-680ea6e0b68e)
+![image](https://github.com/user-attachments/assets/5afeb48f-24f0-4c32-9525-88dcf0878c8e)
+
 
 
 
